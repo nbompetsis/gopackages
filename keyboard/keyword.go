@@ -1,4 +1,4 @@
-package keyword
+package keyboard
 
 import (
 	"bufio"
